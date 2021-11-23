@@ -1,0 +1,67 @@
+PODS:
+  - CheckmarkCollectionViewCell (1.0.5):
+    - CheckmarkCollectionViewCell/Resources (= 1.0.5)
+    - SweeterSwift
+  - CheckmarkCollectionViewCell/Resources (1.0.5):
+    - SweeterSwift
+  - FoldingCell (5.0.2)
+  - MMTabBarAnimation (0.2.9)
+  - OTPFieldView (1.0.1)
+  - paper-onboarding (6.1.5)
+  - SweeterSwift (1.1.4)
+  - SwiftFormat/CLI (0.48.3)
+  - SwiftLint (0.41.0)
+  - SwiftQuality (1.1.2):
+    - SwiftFormat/CLI (= 0.48.3)
+    - SwiftLint (= 0.41.0)
+  - TagCellLayout (1.0)
+
+DEPENDENCIES:
+  - CheckmarkCollectionViewCell
+  - FoldingCell
+  - MMTabBarAnimation
+  - OTPFieldView
+  - paper-onboarding
+  - SwiftQuality (from `https://github.com/yonat/SwiftQuality`)
+  - TagCellLayout (from `https://github.com/riteshhgupta/TagCellLayout.git`)
+
+SPEC REPOS:
+  trunk:
+    - CheckmarkCollectionViewCell
+    - FoldingCell
+    - MMTabBarAnimation
+    - OTPFieldView
+    - paper-onboarding
+    - SweeterSwift
+    - SwiftFormat
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  SwiftQuality:
+    :git: https://github.com/yonat/SwiftQuality
+  TagCellLayout:
+    :git: https://github.com/riteshhgupta/TagCellLayout.git
+
+CHECKOUT OPTIONS:
+  SwiftQuality:
+    :commit: 4c5341bd3044ec9ceb7f8c34c53e68c848924b46
+    :git: https://github.com/yonat/SwiftQuality
+  TagCellLayout:
+    :commit: c8a143743b0761606fd36872808ea239c0215a60
+    :git: https://github.com/riteshhgupta/TagCellLayout.git
+
+SPEC CHECKSUMS:
+  CheckmarkCollectionViewCell: 4355821719319bafa7758c736e71c6aaa972dcd0
+  FoldingCell: f92eb5fb9842319e7cd08c71533c98408b785099
+  MMTabBarAnimation: 1d810a99d32b109afdf77cd0a20a19981c1e8598
+  OTPFieldView: 700a752fe62c41d1c4914c78aa500fb30d97c255
+  paper-onboarding: fede1799b1da6988f3788e3b71654583c6f3bce1
+  SweeterSwift: 8a90cf3156f5a1b6f39785c479369a16633b5ea9
+  SwiftFormat: 996933a4030607ae07c4f94fdb66dcf4f473b355
+  SwiftLint: c585ebd615d9520d7fbdbe151f527977b0534f1e
+  SwiftQuality: 82614c6f5b8ca5dcc8382ce60da85f1d4e572749
+  TagCellLayout: 2a6e3f022bb85a5fe8ccc71762d2e8ab1bbfd8a3
+
+PODFILE CHECKSUM: 1becadb8512582eb0d609462a27636cec59e215f
+
+COCOAPODS: 1.10.0

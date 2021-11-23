@@ -1,0 +1,6 @@
+framework module Pods_GrubZing_GrubZingUITests {
+  umbrella header "Pods-GrubZing-GrubZingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

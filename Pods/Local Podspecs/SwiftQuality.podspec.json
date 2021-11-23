@@ -1,0 +1,41 @@
+{
+  "name": "SwiftQuality",
+  "version": "1.1.2",
+  "summary": "Common configuration files for SwiftLint and SwiftFormat.",
+  "homepage": "https://github.com/yonat/SwiftQuality",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Yonat Sharon": "yonat@ootips.org"
+  },
+  "social_media_url": "https://twitter.com/yonatsharon",
+  "swift_versions": [
+    "4.2",
+    "5.0",
+    "5.2",
+    "5.3"
+  ],
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://github.com/yonat/SwiftQuality.git",
+    "tag": "1.1.2"
+  },
+  "preserve_paths": [
+    ".swiftformat",
+    ".swiftlint.yml"
+  ],
+  "dependencies": {
+    "SwiftLint": [
+      "0.41.0"
+    ],
+    "SwiftFormat/CLI": [
+      "0.48.3"
+    ]
+  },
+  "swift_version": "5.3"
+}

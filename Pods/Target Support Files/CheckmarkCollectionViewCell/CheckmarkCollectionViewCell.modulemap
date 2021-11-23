@@ -1,0 +1,6 @@
+framework module CheckmarkCollectionViewCell {
+  umbrella header "CheckmarkCollectionViewCell-umbrella.h"
+
+  export *
+  module * { export * }
+}

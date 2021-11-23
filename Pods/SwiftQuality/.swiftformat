@@ -1,0 +1,10 @@
+--exclude Pods, Example/Pods
+--commas always
+--ifdef no-indent
+--disable unusedArguments
+--disable andOperator
+--disable yodaConditions
+--disable anyObjectProtocol
+--disable redundantReturn
+--disable wrapMultilineStatementBraces
+--enable isEmpty

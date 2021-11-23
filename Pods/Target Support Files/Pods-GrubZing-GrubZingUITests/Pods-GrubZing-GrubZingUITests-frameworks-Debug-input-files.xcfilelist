@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-GrubZing-GrubZingUITests/Pods-GrubZing-GrubZingUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CheckmarkCollectionViewCell/CheckmarkCollectionViewCell.framework
+${BUILT_PRODUCTS_DIR}/FoldingCell/FoldingCell.framework
+${BUILT_PRODUCTS_DIR}/MMTabBarAnimation/MMTabBarAnimation.framework
+${BUILT_PRODUCTS_DIR}/OTPFieldView/OTPFieldView.framework
+${BUILT_PRODUCTS_DIR}/SweeterSwift/SweeterSwift.framework
+${BUILT_PRODUCTS_DIR}/TagCellLayout/TagCellLayout.framework
+${BUILT_PRODUCTS_DIR}/paper-onboarding/paper_onboarding.framework

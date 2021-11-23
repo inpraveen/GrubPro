@@ -1,0 +1,7 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CheckmarkCollectionViewCell.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FoldingCell.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MMTabBarAnimation.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OTPFieldView.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SweeterSwift.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TagCellLayout.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/paper_onboarding.framework
